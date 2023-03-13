@@ -9,7 +9,3 @@ hr
 tyr
 
 ---
-hr
---
-
-nsnndndjeusn
