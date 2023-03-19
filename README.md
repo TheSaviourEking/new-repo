@@ -6,10 +6,7 @@ oppp
 
 hr
 ---
-tyr
-
----
-ffgg
+t
 hhbs
 
 hhbs
