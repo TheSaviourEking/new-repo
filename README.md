@@ -6,7 +6,6 @@ oppp
 
 hr
 ---
-t
 hhbs
 
 hhbs
